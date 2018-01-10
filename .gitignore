@@ -35,3 +35,4 @@ core
 *.def
 /test-*
 tmpbuild.*
+/libtest/rusty/target
