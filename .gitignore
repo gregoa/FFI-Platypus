@@ -36,3 +36,4 @@ core
 /test-*
 tmpbuild.*
 /libtest/rusty/target
+/t/ffi/rusty/target
